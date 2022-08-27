@@ -1,8 +1,9 @@
-import Form from "./Components/Form";
+import React from 'react';
+import FormikForm from "./Components/FormikForm";
 
 function App(){
     return(
-        <Form/>
+        <FormikForm/>
     )
 };
 
